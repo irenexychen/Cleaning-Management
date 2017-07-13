@@ -1,4 +1,4 @@
-18 12
+17 12
 M M 0 0 0 S 0 0 S S M S
 S 0 0 0 S S M M S M S 0
 0 0 0 S S M S S S M S M
@@ -16,4 +16,3 @@ S 0 0 0 S S M M S M S 0
 0 0 0 S S M S S S M S M
 S M S S 0 0 0 S S M M 0
 0 0 0 0 S M S S S M S M
-S M S S S M S M M 0 0 0
